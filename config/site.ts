@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: 'Azka Shaukat',
-  url: 'https://azka-shaukat.vercel.app',
+  url: 'https://my-portfolio-rho-snowy-69.vercel.app',
   description: 'Portfolio of Azka Shaukat, AI/ML Engineer & Full-Stack Developer.',
   keywords: [
     'Azka Shaukat',
@@ -17,7 +17,7 @@ export const siteConfig = {
     shadcn: 'https://ui.shadcn.com/',
     telegram: '', 
     twitter: '',
-    github: 'https://github.com/AzkaShaukat',
+    github: 'https://github.com/AzkaShaukat/my-portfolio',
     githubProfile: 'https://github.com/AzkaShaukat',
     linkedin: 'https://www.linkedin.com/in/azka-shaukat',
     resume: '/Azka_Resume.pdf', 
