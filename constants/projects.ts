@@ -63,7 +63,9 @@ export const projects = [
       'Effectively handling inconsistent data formats and un-scaled values in real-world production data.',
     ],
     feedback: true,
-    links: {},
+    links: {
+      live: 'https://theft-detection-frontend.netlify.app/',
+    },
   },
   {
     title: 'GPA Genie Web',
