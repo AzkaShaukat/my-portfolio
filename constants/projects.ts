@@ -64,7 +64,7 @@ export const projects = [
     ],
     feedback: true,
     links: {
-      live: 'https://theft-detection-frontend.netlify.app/',
+      live: 'https://lesco-meter-analyzer.vercel.app/',
       github: 'https://github.com/AzkaShaukat/lesco-meter-analyzer',
     },
   },
