@@ -43,7 +43,7 @@ export const projects = [
     slug: 'lesco-meter-data-analyzer',
     tagline: 'Automated analysis and anomaly detection for smart meter data.',
     overview:
-      'A local, full-stack application designed for electrical grid analysts to automate the auditing of smart meter data. It replaces manual spreadsheet inspection with intelligent algorithms that ingest messy Excel exports, detect missing intervals, correlate gaps with outage events, and flag suspiciously low consumption.',
+      'A full-stack web application designed for electrical grid analysts to automate the auditing of smart meter data. Successfully deployed to production, it replaces manual spreadsheet inspection with intelligent algorithms that ingest messy Excel exports, detect missing intervals, correlate gaps with outage events, and flag suspiciously low consumption.',
     features: [
       'Dynamic anomaly detection for data gaps and sudden consumption drops.',
       'Automated correlation of distinct data sets (Load Profile vs Events) to differentiate outages from tampering.',
@@ -65,6 +65,7 @@ export const projects = [
     feedback: true,
     links: {
       live: 'https://theft-detection-frontend.netlify.app/',
+      github: 'https://github.com/AzkaShaukat/lesco-meter-analyzer',
     },
   },
   {
